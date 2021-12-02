@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
+    <title>project 1</title>
+</head>
+<body><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
+    <title>project 1</title>
+</head>
+<body>
+    <!-- start header -->
+
+    <table id ="header" border = "1" width="100%" cellpadding="0" cellspacing="0" bgcolor="lime">
+        <tr>
+            <td>
+                <table border="1" cellpadding="15" cellspacing="0"
+                align="center">
+                <tr>
+                    <td align= "center" valign= "middel">
+                        <font face ="arial" color="black" size="5">
+                            <span class="fa fa-user-circle" aria-hidden="true"> </span>
+                            SEARCH YASH
+                        </font>
+                    </td>
+                    <td widht ="50%">
+
+                    </td>
+                    <td>
+                        <a href=""> <font face = "arial" color="black" size="4"> HOME </font></a>
+                    </td>
+                    <td>
+                        <a href=""> <font face = "arial" color="black" size="4"> ABOUT</font></a>
+                    </td>
+                    <td>
+                        <a href=""> <font face = "arial" color="black" size="4"> CONTACT ME </font></a>
+                    </td>
+                    <td>
+                        <a href=""> <font face = "arial" color="black" size="4"> HELP </font></a>
+                    </td>
+                    
+                </tr>
+
+
+                </table>
+            </td>
+        </tr>
+    </table>
+    <!-- end header -->
+
+    <!-- start home -->
+
+    <table id ="header" border = "1" width="100%" cellpadding="0" cellspacing="0" bgcolor="black">
+        <tr>
+            <td>
+                <table border="0"  widht= "85%" cellpadding="15" cellspacing="0"
+                align="center">
+                <tr>
+                    <td align= "center" valign= "middel">
+                        <h3>
+                        <font face ="bold" color="lime" size="6">
+                            HI, I AM YASH
+                        </font>
+                        </h3>
+                        <h2>
+                            <font face ="arial" color="lime" size="7">
+                                I  AM BEGGINER FOR CODING
+                            </font>
+                        </h2>
+                    </td>
+                </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <!-- end home -->
+
+    <!-- start aboout -->
+
+    <table id ="header" border = "1" width="100%" cellpadding="0" cellspacing="0" bgcolor="black">
+        <tr>
+            <td>
+                <table border="1"  widht= "85%" cellpadding="15" cellspacing="0"
+                align="center" >
+                <!-- heading start -->
+                <tr>
+                    <td height="100" align= "center" valign= "middel" colspan="2">
+                        <font face ="bold" color="lime" size="6">
+                                ABOUT ME
+                        </font>
+                    </td>
+                </tr>
+                <!-- heading end -->
+                <tr>
+                    <td width="40%">
+                        <img src="images/mypic.jpg" width="80%" alt="yash pic load">
+                    </td>
+                    <td width="60%"> 
+                        <font face="bold" color="lime" size="4">
+                            <H2> I AM NEW PROGGRAME AND PASSION ARE MAKE WEBPAGE </H2>
+                            HI I AM YASH  I AM FROM AHEMDABAD  I AM IN NAVGUJRAT COMPUTER APLICATION FIRST SEM STUDENT FOR BCA 
+                            <BR> I HAVE CLEAR 10TH AT 72% AND 12TH HAVE COMPLETE AS 70% THIS IS MY AVARAGE PERFOMECE BUT IS ENOUGH</BR> 
+                               <BR> MY LIFE IS JOY AND HAPPINESS BEACUSE MY FREIND IS VERY GOOD AND LOYAL MY NEW COLLAGE FREIND ARE SO NICE MY SMALL JURNEY START AT COLLAGE </BR>
+                        </font>
+                    </td>
+                </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+    <!-- start header -->
+
+    <table id ="header" border = "1" width="100%" cellpadding="0" cellspacing="0" bgcolor="lime">
+        <tr>
+            <td>
+                <table border="1" cellpadding="15" cellspacing="0"
+                align="center">
+                <tr>
+                    <td align= "center" valign= "middel">
+                        <font face ="arial" color="black" size="5">
+                            <span class="fa fa-user-circle" aria-hidden="true"> </span>
+                            SEARCH YASH
+                        </font>
+                    </td>
+                    <td widht ="50%">
+
+                    </td>
+                    <td>
+                        <a href=""> <font face = "arial" color="black" size="4"> HOME </font></a>
+                    </td>
+                    <td>
+                        <a href=""> <font face = "arial" color="black" size="4"> ABOUT</font></a>
+                    </td>
+                    <td>
+                        <a href=""> <font face = "arial" color="black" size="4"> CONTACT ME </font></a>
+                    </td>
+                    <td>
+                        <a href=""> <font face = "arial" color="black" size="4"> HELP </font></a>
+                    </td>
+                    
+                </tr>
+
+
+                </table>
+            </td>
+        </tr>
+    </table>
+    <!-- end header -->
+
+    <!-- start home -->
+
+    <table id ="header" border = "1" width="100%" cellpadding="0" cellspacing="0" bgcolor="black">
+        <tr>
+            <td>
+                <table border="0"  widht= "85%" cellpadding="15" cellspacing="0"
+                align="center">
+                <tr>
+                    <td align= "center" valign= "middel">
+                        <h3>
+                        <font face ="bold" color="lime" size="6">
+                            HI, I AM YASH
+                        </font>
+                        </h3>
+                        <h2>
+                            <font face ="arial" color="lime" size="7">
+                                I  AM BEGGINER FOR CODING
+                            </font>
+                        </h2>
+                    </td>
+                </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <!-- end home -->
+
+    <!-- start aboout -->
+
+    <table id ="header" border = "1" width="100%" cellpadding="0" cellspacing="0" bgcolor="black">
+        <tr>
+            <td>
+                <table border="1"  widht= "85%" cellpadding="15" cellspacing="0"
+                align="center" >
+                <!-- heading start -->
+                <tr>
+                    <td height="100" align= "center" valign= "middel" colspan="2">
+                        <font face ="bold" color="lime" size="6">
+                                ABOUT ME
+                        </font>
+                    </td>
+                </tr>
+                <!-- heading end -->
+                <tr>
+                    <td width="40%">
+                        <img src="images/mypic.jpg" width="80%" alt="yash pic load">
+                    </td>
+                    <td width="60%"> 
+                        <font face="bold" color="lime" size="4">
+                            <H2> I AM NEW PROGGRAME AND PASSION ARE MAKE WEBPAGE </H2>
+                            HI I AM YASH  I AM FROM AHEMDABAD  I AM IN NAVGUJRAT COMPUTER APLICATION FIRST SEM STUDENT FOR BCA 
+                            <BR> I HAVE CLEAR 10TH AT 72% AND 12TH HAVE COMPLETE AS 70% THIS IS MY AVARAGE PERFOMECE BUT IS ENOUGH</BR> 
+                               <BR> MY LIFE IS JOY AND HAPPINESS BEACUSE MY FREIND IS VERY GOOD AND LOYAL MY NEW COLLAGE FREIND ARE SO NICE MY SMALL JURNEY START AT COLLAGE </BR>
+                        </font>
+                    </td>
+                </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
